@@ -39,7 +39,7 @@
 [``Pyrogram Session``](https://telegram.me/StringFatherBot)
   
   
-# Variables 
+# Variabless
   `SESSION_NAME`
   `BOT_TOKEN`
   `BOT_NAME`
